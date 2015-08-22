@@ -1,0 +1,3 @@
+The wizard has built 2 cab(s) for your application. The cabs are in 'C:\autodraf\papak\Package'.
+
+There is also a batch file in the support directory (C:\autodraf\papak\Package\Support\SPapak.BAT) that will allow you to recreate the cab files in case you make changes to some of the files.

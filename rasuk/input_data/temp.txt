@@ -1,0 +1,41 @@
+Dim fnum As Integer
+Dim txtFile, Temp As String
+fnum = FreeFile
+Dim N As Integer
+
+
+txtFile = "C:\autodraf\rasuk\DefaultStress.txt"
+Open txtFile For Input As #fnum
+Input #fnum, Xinsertion
+Input #fnum, Yinsertion
+Input #fnum, FontSz
+Input #fnum, NamaRasuk
+Input #fnum, fcu
+Input #fnum, fy
+Input #fnum, fyv
+Input #fnum, Shrink
+Input #fnum, Creep
+Input #fnum, cVr
+Input #fnum, slabThick
+Input #fnum, stirupD
+Input #fnum, BarMark
+Close #fnum
+
+
+
+txtFile = "C:\autodraf\rasuk\DefaultStress.txt"
+Open txtFile For Output As #fnum
+Print #fnum, Xinsertion
+Print #fnum, Yinsertion
+Print #fnum, FontSz
+Print #fnum, NamaRasuk
+Print #fnum, fcu
+Print #fnum, fy
+Print #fnum, fyv
+Print #fnum, Shrink
+Print #fnum, Creep
+Print #fnum, cVr
+Print #fnum, slabThick
+Print #fnum, stirupD
+Print #fnum, BarMark
+Close #fnum

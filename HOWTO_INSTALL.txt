@@ -1,0 +1,66 @@
+The application is a window based software packaged and compiled in a folder named 'autodraf'.
+For installation the particular folder must be placed on the C drive, i.e. 
+C:\autodraf
+There are a number of source files and compilation folders subsequently, such as;
+C:\autodraf\tiang\datainput\ 
+C:\autodraf\tiang\resultoutput\ respectively.
+etc
+Do not change or delete any of them unless you have done programming and know what you are doing.
+
+Please find the setup exe file in the ' Package ' folder. Double-click the setup.exe to install the application. The setup has to be done at least once from any of the three modules, wherein the required dependency file shall be copied into local windows. Once the installation completed, you can double-click SPapak.exe, SButirRasuk.exe, SButirTiang.exe to start each application or create shortcuts onto desktop for ease. Enjoy
+
+
+The folder tree of the application is typically as follows for the Directory of C:\autodraf\papak
+17/03/2011  12:51 PM    <DIR>          .
+17/03/2011  12:51 PM    <DIR>          ..
+13/10/2001  09:22 PM             2,168 BHidup.cls
+13/10/2001  09:22 PM             2,170 BKemas.cls
+23/09/2001  10:20 PM               714 CoefHog4Conti.bas
+23/09/2001  10:20 PM               709 CoefSag4Conti.bas
+
+17/03/2011  11:15 AM    <DIR>          data_papak
+09/03/2002  10:38 PM             1,178 DesignPerimeters.cls
+04/04/2002  10:45 PM               729 FourEContinHog.bas
+18/10/2001  07:44 PM               731 FourEContinSag.bas
+19/10/2001  10:25 PM               761 FourEdgesDiscoSag.bas
+13/10/2001  09:22 PM             2,178 Label.cls
+17/02/2011  03:58 PM             5,453 Linkage1.frm
+17/02/2011  03:58 PM             8,096 Linkage1.frx
+18/10/2001  10:31 PM               747 OneLongEDiscoHog.bas
+18/10/2001  10:31 PM               745 OneLongEDiscoSag.bas
+23/09/2001  09:53 PM                50 OneShortEDisciHog.bas
+18/10/2001  10:17 PM               754 OneShortEDiscoHog.bas
+18/10/2001  10:17 PM               754 OneShortEDiscoSag.bas
+
+17/03/2011  11:15 AM    <DIR>          Package
+13/10/2001  09:22 PM             2,180 Rasuk_B.cls
+13/10/2001  09:22 PM             2,176 Rasuk_H.cls
+13/10/2001  09:22 PM             1,724 Rentang.cls
+11/03/2002  09:21 PM                51 RequiredAsc.bas
+11/03/2002  09:21 PM             2,488 RequiredAst.bas
+01/03/2011  04:02 PM           507,904 SPapak.exe
+01/03/2011  04:00 PM           217,099 SPapak.frm
+01/03/2011  04:00 PM             1,556 SPapak.frx
+01/03/2011  04:02 PM             3,134 SPapak.PDM
+01/03/2011  04:00 PM             1,930 SPapak.vbp
+01/03/2011  04:00 PM               934 SPapak.vbw
+20/10/2001  09:20 PM               769 ThreeELongDiscoHog.bas
+19/10/2001  10:25 PM               769 ThreeELongDiscoSag.bas
+19/10/2001  10:25 PM               137 ThreeEShortDiscoHog.bas
+19/10/2001  10:25 PM               777 ThreeEShortDiscoSag.bas
+13/10/2001  09:22 PM             2,170 TPapak.cls
+20/03/2002  09:22 PM               739 TwoAdjEDiscoHog.bas
+19/10/2001  10:04 PM               743 TwoAdjEDiscoSag.bas
+19/10/2001  10:25 PM               129 TwoLongEDiscoHog.bas
+20/10/2001  09:20 PM               752 TwoLongEDiscoSag.bas
+19/10/2001  10:04 PM               759 TwoShortEDiscoHog.bas
+04/04/2002  10:45 PM               760 TwoShortEDiscoSag.bas
+13/10/2001  06:57 PM               391 URentang.cls
+
+Directory of C:\autodraf\papak\Package
+17/03/2011  11:15 AM    <DIR>          .
+17/03/2011  11:15 AM    <DIR>          ..
+18/06/1998  12:00 AM           140,800 setup.exe
+01/03/2011  04:02 PM             3,652 SETUP.LST
+01/03/2011  04:02 PM         1,405,705 SPapak.CAB
+17/03/2011  11:15 AM    <DIR>          Support
