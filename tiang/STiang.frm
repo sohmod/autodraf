@@ -2836,16 +2836,22 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-'''THIS COMPUTER PROGRAM IS DEDICATED TO MY LATE FATHER                 '''
-'''WAN MOHAMED BIN WAN AWANG (1938 - 15.02.02), SEMOGA DIRAHMATI ALLAH. '''
-'''THE PROGRAM ENABLES TRANSFERS OF TEXT DATA INTO GRAPHICAL OR         '''
-'''DRAWING IN AUTOCAD FORMAT. THE TEXT DATA CAN BE TYPED/PUNCHED        '''
-'''IN SPECIFIC SPACES ON THE DATA INPUT FORM. MOST IMPORTANT OF ALL IS     '''
-'''INBUILT ALGORITHM THAT EVALUATE SECTION CAPACITY OF RECTANGULAR COLUMN. '''
-'''COPYRIGHT (C) 2001 BY : WAN SOHAIMI BIN WAN MOHAMED.                    '''
-'''(LATEST REVISION FEB 2011)- [butiran tiang sahaja]                   '''
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'''THIS COMPUTER PROGRAM (SOFTWARE) IS DEDICATED TO MY LATE FATHER            '''
+'''WAN MOHAMED BIN WAN AWANG (1938 - 15.02.02), SEMOGA DIRAHMATI ALLAH.       '''
+'''THE PROGRAM IS AN INPUT TEMPLATE FOR STRUCTURAL REINFORCED CONCRETE COLUMN,  '''
+'''TO INTERFACE INTO AUTOCAD ENVIRONMENT WITH PRE-DESIGNED ALGORITHMS THAT    '''
+'''ENABLE TO CONVERT THE INPUT DATA AUTOMATICALLY INTO STRUCT. R.C. DRAWINGS. '''
+'''CREATED IN 2001 BY : WAN SOHAIMI BIN WAN MOHAMED.                          '''
+'''(LATEST REVISION FEB 2002)- [butiran tiang sahaja]                         '''
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+'''Permission is hereby granted, free of charge, to any person obtaining a copy  '''
+'''of this software and associated documentation files (the "Software"), to deal '''
+'''in the Software without restriction, including without limitation the rights  '''
+'''to use, copy, modify, merge, publish, distribute, sub-license, and/or sell    '''
+'''copies of the Software, and to permit persons to whom the Software is         '''
+'''furnished to do so, subject to the following conditions: nil                  '''
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Option Explicit
 
