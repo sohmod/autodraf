@@ -1,8 +1,8 @@
 # autodraf
 VB6 application : -  
-Interfacing template for data inputs into autodesk Autocad workspace thus 
-enabling auto-generate R.C. beams and columns in modelspace.
-The app was tested on Window Vista and 7 extensively, recently tried on 
+GUI for data inputs of R.C. beams and columns to autodesk Autocad workspace/environment, 
+to automatically generate drawing of typical structural details in modelspace.
+The app was tested on Window Vista and 7, also tried on 
 Window 10 without glitches. 
 
 # Video Tutorial
